@@ -24,86 +24,6 @@
 
 ---
 
-## 🧠 About Me
-
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name        = "Mohan Lal"
-        self.location    = "India 🇮🇳"
-        self.role        = "AI Engineer (Open to Work 🟢)"
-        self.focus       = ["LLMs", "RAG Systems", "AI Agents", "MLOps"]
-        self.languages   = ["Python", "SQL"]
-        self.currently   = "Building production-grade GenAI applications"
-        self.learning    = ["LangGraph", "Fine-tuning LLMs", "Vector Databases"]
-        self.ask_me_about= ["RAG pipelines", "Prompt Engineering", "ML deployment"]
-
-    def __str__(self):
-        return f"Passionate about building AI that actually works in production."
-
-me = AIEngineer()
-print(me)
-```
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🔍 RAG-Powered PDF Chatbot</h3>
-      <p align="center">
-        <a href="https://github.com/MOHANLAL833/YOUR_RAG_REPO">
-          <img src="https://img.shields.io/badge/Code-View%20Repo-7c3aed?style=for-the-badge&logo=github"/>
-        </a>
-        <a href="#">
-          <img src="https://img.shields.io/badge/Demo-Live-22c55e?style=for-the-badge&logo=vercel"/>
-        </a>
-      </p>
-      <p>Chat with any PDF using LangChain + FAISS + OpenAI. Ask questions, get cited answers.</p>
-      <p><code>LangChain</code> · <code>FAISS</code> · <code>OpenAI</code> · <code>Streamlit</code></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🤖 AI Research Agent</h3>
-      <p align="center">
-        <a href="https://github.com/MOHANLAL833/YOUR_AGENT_REPO">
-          <img src="https://img.shields.io/badge/Code-View%20Repo-7c3aed?style=for-the-badge&logo=github"/>
-        </a>
-        <a href="#">
-          <img src="https://img.shields.io/badge/Demo-Live-22c55e?style=for-the-badge&logo=vercel"/>
-        </a>
-      </p>
-      <p>Autonomous agent that searches the web, summarizes content, and drafts reports.</p>
-      <p><code>LangGraph</code> · <code>Tavily API</code> · <code>Groq</code> · <code>FastAPI</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🛒 Recommendation System</h3>
-      <p align="center">
-        <a href="https://github.com/MOHANLAL833/Recommendation-System">
-          <img src="https://img.shields.io/badge/Code-View%20Repo-7c3aed?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-      <p>Collaborative and content-based filtering recommendation engine built from scratch.</p>
-      <p><code>Python</code> · <code>Scikit-learn</code> · <code>Pandas</code> · <code>NumPy</code></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📦 Supply Chain Freight Prediction</h3>
-      <p align="center">
-        <a href="https://github.com/MOHANLAL833/Supply-chain-Management-Freight-cost-Prediction">
-          <img src="https://img.shields.io/badge/Code-View%20Repo-7c3aed?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-      <p>ML model to predict freight costs from supply chain data with feature engineering.</p>
-      <p><code>XGBoost</code> · <code>Pandas</code> · <code>Matplotlib</code> · <code>Scikit-learn</code></p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -168,8 +88,8 @@ print(me)
 I'm actively looking for **AI Engineer** roles in India (Bangalore / Remote).  
 If you're hiring or want to collaborate on AI projects — let's talk!
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohanlal-m-6923182a8)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohanlalgmayil@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 
 </div>
 
